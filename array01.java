@@ -1,7 +1,0 @@
-public class array01 {
-
-
-
-
-
-}
